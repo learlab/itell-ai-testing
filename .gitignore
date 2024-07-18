@@ -1,3 +1,4 @@
 testing-data
 **/*.ipynb_checkpoints/
 .env
+output
