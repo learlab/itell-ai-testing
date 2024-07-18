@@ -1,0 +1,3 @@
+testing-data
+**/*.ipynb_checkpoints/
+.env
